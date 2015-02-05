@@ -5,8 +5,8 @@ Resources for studying Node.js.
 
 ## 相關文章
 
-* [技術轉換需知，學習 Node.js 的前期準備](http://blog.jsdc.tw/2014/09/04/node-prepare/)
-* [NVM, 安裝管理你的 node.js](http://blog.caesarchi.com/2012/10/nvm-nodejs-nodejs-day-3.html)
+* 技術轉換需知，學習 Node.js 的前期準備 - [http://blog.jsdc.tw/2014/09/04/node-prepare/](http://blog.jsdc.tw/2014/09/04/node-prepare/)
+* NVM, 安裝管理你的 node.js - [http://blog.caesarchi.com/2012/10/nvm-nodejs-nodejs-day-3.html](http://blog.caesarchi.com/2012/10/nvm-nodejs-nodejs-day-3.html)
 
 
 ## 書籍（Books）
@@ -14,9 +14,9 @@ Resources for studying Node.js.
 
 ### 線上
 
-* [Node.js 台灣社群協作電子書](https://github.com/nodejs-tw/nodejs-wiki-book)
-* [七天学会NodeJS(簡)](http://nqdeng.github.io/7-days-nodejs/)
-
+* Node.js 台灣社群協作電子書 - [https://github.com/nodejs-tw/nodejs-wiki-book](https://github.com/nodejs-tw/nodejs-wiki-book)
+* 七天学会NodeJS(簡) - [http://nqdeng.github.io/7-days-nodejs/](http://nqdeng.github.io/7-days-nodejs/)
+* Node.js 包教不包会(簡) - [https://github.com/alsotang/node-lessons](https://github.com/alsotang/node-lessons)
 
 ### 紙本
 
