@@ -3,13 +3,36 @@ Node-Resource
 
 Resources for studying Node.js.
 
+## 相關文章
+
+* [技術轉換需知，學習 Node.js 的前期準備](http://blog.jsdc.tw/2014/09/04/node-prepare/)
+* [NVM, 安裝管理你的 node.js](http://blog.caesarchi.com/2012/10/nvm-nodejs-nodejs-day-3.html)
+
+
 ## 書籍（Books）
+
+
+### 線上
+
+* [Node.js 台灣社群協作電子書](https://github.com/nodejs-tw/nodejs-wiki-book)
+
+
+### 紙本
+
+* JavaScript 設計模式 - *(Stoyan Stefanov)* 歐萊禮 ISBN: 9789862764190
+* 不一樣的 Node.js：用 JavaScript 打造高效能的前後台網頁程式 - *(錢逢祥、蔡政崇、林政毅)* 松崗 ISBN: 9789572242827
+* 深入淺出 Node.js - *(朴靈)* 博碩 ISBN: 9789862019405
 
 
 ## 投影片（Slides）
 
 
-## 教學影片（Video）
+## 教學影片（Videos）
+
+
+## 相關教學（Tutorials）
+
+* [NodeSchool](http://nodeschool.io/) - 以 Node.js 打造、跑在終端機上的開放原始碼教學工作坊。
 
 
 ## 開放原始碼專案（Open Source Project）
