@@ -15,6 +15,7 @@ Resources for studying Node.js.
 ### 線上
 
 * [Node.js 台灣社群協作電子書](https://github.com/nodejs-tw/nodejs-wiki-book)
+* [七天学会NodeJS(簡)](http://nqdeng.github.io/7-days-nodejs/)
 
 
 ### 紙本
@@ -28,6 +29,8 @@ Resources for studying Node.js.
 
 
 ## 教學影片（Videos）
+
+* [Node.js 入門](https://www.mokoversity.com/course/html5/nodejs-overview)
 
 
 ## 相關教學（Tutorials）
