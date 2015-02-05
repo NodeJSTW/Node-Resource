@@ -43,6 +43,10 @@ Resources for studying Node.js.
 * Express - a minimal and flexible Node.js web application framework [http://expressjs.com](http://expressjs.com)
 * Koa - a new web framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs. [http://koajs.com](http://koajs.com)
 
+#### 應用工具
+* Grunt.js - 自動化流程工具 JavaScript Task Runner.  [http://gruntjs.com/](http://gruntjs.com/)
+* Gulp.js - 自動化流程工具 Automate and enhance your workflow.  [http://gulpjs.com/](http://gulpjs.com/)
+* Bower - 前端套件管理工具 A package manager for the web [http://bower.io/](http://bower.io/)
 
 ## 活動（Activities）
 * NodeSchool 工作坊 [http://nodeschool.io](http://nodeschool.io)
